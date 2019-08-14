@@ -1,0 +1,35 @@
+{
+	"Menu": "7 west cafe",
+	"foodItems": [
+					{
+						"itemNumber":"1",
+						"itemName":"Gralic Bread",
+						"price": "10"
+					},
+					{
+						"itemNumber":"2",
+						"itemName":"Pizza",
+						"price": "12"
+					},
+					{
+						"itemNumber":"3",
+						"itemName":"Nachos",
+						"price": "16"
+					},
+					{
+						"itemNumber":"4",
+						"itemName":"Fries",
+						"price": "8"
+					},
+					{
+						"itemNumber":"5",
+						"itemName":"Butter chicken",
+						"price": "18"
+					},
+					{
+						"itemNumber":"6",
+						"itemName":"Naan",
+						"price": "7"
+					}
+				 ]
+}
